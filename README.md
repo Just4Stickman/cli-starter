@@ -1,6 +1,6 @@
 # Forge
 
-Production-grade Python CLI starter. Typed, tested, containerized, and CI-ready from the first commit.
+Production-grade CLI starter. Typed, tested, containerized, and CI-ready from the first commit.
 
 ## Features
 
